@@ -8,6 +8,8 @@
   <strong>Founder of Sawfwair · Fractional CTO · Builder of local-first AI systems</strong>
 </p>
 
+<p align="center">Prince Edward Island, Canada · Working globally</p>
+
 <p align="center">
   <a href="https://sawfwair.com">Sawfwair</a> ·
   <a href="https://mere.run">Mere</a> ·
@@ -45,4 +47,3 @@ Sawfwair is for teams that need a senior technical owner now: a founder without 
 The work combines product direction, architecture, AI strategy, engineering leadership, hiring and vendor decisions, and hands-on delivery on the critical path.
 
 **[Discuss fractional CTO support →](https://sawfwair.com/conversation)**
-
